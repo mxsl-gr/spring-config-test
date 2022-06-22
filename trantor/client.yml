@@ -1,5 +1,3 @@
 abc:
   bcd: def-333
   abb: def-123
-server:
-  port: 8088
